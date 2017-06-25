@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://diaocsaigon24h.com.vn/' target='_blank'><img src='https://www.hungthinhland.net.vn/sites/www.hungthinhland.net.vn/files/styles/w640h406/public/field/image/cam-ranh-mystery.jpg?itok=mmHkC8LJ' width='500px'/><br/>căn hộ Florita Garden Hưng Thịnh </a>. LH PKD Hưng Thịnh 0931469989. <h2><a class='close-linhnguyen-modal'>X</a></h2>"); 
+			$("#myModal").html("<a href='http://diaocsaigon24h.com.vn/' target='_blank'><img src='https://www.hungthinhland.net.vn/sites/www.hungthinhland.net.vn/files/styles/w640h406/public/field/image/cam-ranh-mystery.jpg' width='500px'/><br/>căn hộ Florita Garden Hưng Thịnh </a>. LH PKD Hưng Thịnh 0931469989. <h2><a class='close-linhnguyen-modal'>X</a></h2>"); 
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
